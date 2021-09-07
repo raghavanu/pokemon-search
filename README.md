@@ -13,7 +13,7 @@ Make sure you have installed all of the following prerequisites on your developm
 The recommended way to get PokemonSearch is to use git to directly clone the PokemonSearch repository:
 
 ```bash
-$ git clone https://bitbucket.org/solchargeexpp/solchargeexpp.git
+$ git clone https://github.com/raghavanu/pokemon-search.git
 ```
 
 ### Installing yarn
